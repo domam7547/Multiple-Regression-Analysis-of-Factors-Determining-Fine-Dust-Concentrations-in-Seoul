@@ -65,12 +65,12 @@
 
 회귀식의 일반적인 형태는 다음과 같습니다.
 
-$$
+```math
 \log(PM10_t) = \beta_0 + \beta_1 Temp_t + \beta_2 Humidity_t
 + \beta_3 Wind_t + \beta_4 Rain_t + \beta_5 Pressure_t
 + \beta_6 Spring_t + \beta_7 Summer_t + \beta_8 Fall_t
 + \beta_9 Weekend_t + \epsilon_t
-$$
+```
 
 ## 모형 비교 결과
 
